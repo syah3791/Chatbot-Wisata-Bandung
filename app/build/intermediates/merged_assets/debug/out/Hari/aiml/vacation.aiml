@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category><pattern>SIAPA KAMU</pattern>
+        <template>Aku asisten robot</template>
+    </category>
+    <category><pattern>APA YANG KAMU LAKUKAN</pattern>
+        <template>Memberikan saran liburan</template>
+    </category>
+    <category><pattern>* LIBURAN *</pattern>
+        <template>Aku hanya tau tempat liburan di Bandung</template>
+    </category>
+    <category><pattern>TUNJUKKAN *</pattern>
+        <template>
+        Kamu suka dimana? 
+            1. Tangkuban Perahu
+            2. Pasir Ipis
+            3. Gunung Putri
+        (Nomer #nomerPilihan)
+        </template>
+    </category>
+    <category><pattern>NOMER *</pattern>
+        <template>
+            <think>
+                <set name="pilihan"><star/></set>
+                <condition name="pilihan" value="1">
+                    <set name="namaPilihan">Tangkuban Perahu</set>
+                </condition>
+                <condition name="pilihan" value="2">
+                    <set name="namaPilihan">Pasir Ipis</set>
+                </condition>
+                <condition name="pilihan" value="3">
+                    <set name="namaPilihan">Gunung Putri</set>
+                </condition>
+            </think> Apa kamu tahu tentang <get name="namaPilihan"/> ?
+        </template>
+    </category>
+    <category>
+        <pattern>TIDAK TAU</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="1">
+                <set name="infoPilihan">Terletak di dataran tinggi, Lembang Bandung memiliki pesona tempat wisata yang mampu menyihir para wisatawan yang berkunjung. Anda bisa mengajak keluarga atau saudara untuk berkunjung ke wisata di Bandung yang sedang hits dan populer.</set>
+            </condition>
+            <condition name="pilihan" value="2">
+                <set name="infoPilihan">Jika anda mendengar nama Pasir Ipis pasti yang terlintas di benak adalah wisata pantai yang mempesona. Namun nyatanya pasir Ipis adalah kawasan hutan wisata yang memiliki panorama alam yang sangat memukau.</set>
+            </condition>
+            <condition name="pilihan" value="3">
+                <set name="infoPilihan">Lembang Bandung memang memiliki suasana yang sejuk dan dingin, sehingga membuat siapa saja betah untuk berlama lama berkunjung ke kota tersebut. Salah satunya adalah Gunung Putri yang merupakan objek wisata yang sayang untuk dilewatkan.</set>
+            </condition>
+            </think>
+            <get name="infoPilihan"/>
+        </template>
+    </category>
+    <category>
+        <pattern>DIMANA LOKASINYA</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="1">
+                <set name="infoLokasi">Lokasi: Cikahuripan, Kec. Lembang, Kab. Bandung Barat.</set>
+            </condition>
+            <condition name="pilihan" value="2">
+                <set name="infoLokasi">Jl. Pasir IpisJayagiri, Kec. Lembang, Kab. Bandung Barat.</set>
+            </condition>
+            <condition name="pilihan" value="3">
+                <set name="infoLokasi">Jl. Gunung Putri, Desa Cihideung, Kec. Lembang, Kab. Bandung Barat.</set>
+            </condition>
+            </think>
+            <get name="infoLokasi"/>
+        </template>
+    </category>
+    <category>
+        <pattern>TIKETNYA</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="1">
+                <set name="infoTiket">Tiketnya Rp.20.000/orang .</set>
+            </condition>
+            <condition name="pilihan" value="2">
+                <set name="infoTiket">Tiketnya Rp.10.000/orang.</set>
+            </condition>
+            <condition name="pilihan" value="3">
+                <set name="infoTiket">Tiketnya Rp.17.000/orang .</set>
+            </condition>
+            </think>
+            <get name="infoTiket"/>
+        </template>
+    </category>
+    <category>
+        <pattern>RUTENYA</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="1">
+                <set name="infoRute">Rute melalui Kota Bandung, Anda tinggal harus menuju jalan ke cipaganti, Setelah itu menuju ke setiabudi dan tinggal lurus terus mengikuti arah jalan yang ada. Setelah ketemu alun-alun lembang Anda tinggal perlu ambil jalur kiri dan dari sana kurang lebih menempuh waktu sekitar 30 menit saja untuk sampai di kawasan wisata Gunung Tangkuban Perahu.</set>
+            </condition>
+            <condition name="pilihan" value="2">
+                <set name="infoRute">Rute dari arah Alun – Alun atau Pasar lembang. Nah dari kantor Polsek di lembang, anda tinggal arahkan kendaraan anda hingga menemukan Rumah Makan Mandarin, selanjutnya anda masuk gang dimana di sana terdapat pangkalan ojek, dan tidak berselang lama, anda tinggal belok kanan ke arah pasir ipis.</set>
+            </condition>
+            <condition name="pilihan" value="3">
+                <set name="infoRute">Rute melalui daerah Subang, kamu bisa melanjutkan kembali perjalanan menuju ke arah Lembang Bandung. Setibanya di daerah Lembang, Kabupaten Bandung Barat, dan berhenti di daerah Jaya Giri. Tak jauh dari situ, kamu akan menemukan menuju pintu gerbang tempat wisata Gunung Putri Lembang.</set>
+            </condition>
+            </think>
+            <get name="infoRute"/>
+        </template>
+    </category>
+    <category>
+        <pattern>FASILITASNYA</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="1">
+                <set name="infoRute">Pemandangan alam pegunungan.</set>
+            </condition>
+            <condition name="pilihan" value="2">
+                <set name="infoRute">Fasilitas:
+                    1.Camping Ground
+                    2.Wisata Outbound
+                    3.Gardu Pandang
+                    4.Sarang Burung
+                    5.Spot Deck Love
+                    6.Tempat Kuliner
+                    7.Permainan Tradisioal
+                    8.Homestay
+                </set>
+            </condition>
+            <condition name="pilihan" value="3">
+                <set name="infoRute">Pemandangan alam pegunungan dan penyewaan alat camping.</set>
+            </condition>
+            </think>
+            <get name="infoRute"/>
+        </template>
+    </category>
+    <category>
+        <pattern>APA ADA FOTONYA</pattern>
+        <template>
+            <think>
+            <condition name="pilihan" value="Tangkuban Perahu">
+                <set name="infoFoto">kjkj
+                </set>
+            </condition>
+            </think>
+            <button>
+              <text><get name="pilihan"/></text>
+              <url>https://www.pandorabots.com <star/></url>
+            </button>
+        </template>
+    </category>
+</aiml>

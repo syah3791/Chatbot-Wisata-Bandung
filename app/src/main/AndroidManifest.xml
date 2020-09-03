@@ -1,0 +1,97 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	package="com.wisatabandung">
+	<uses-permission	android:name="android.permission.INTERNET"/>
+	<uses-permission	android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission	android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+	<uses-permission 	android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<application
+		tools:replace="allowBackup, label"
+		android:allowBackup="true"
+		android:label="wisata bandung"
+		android:icon="@drawable/app_icon"
+		android:largeHeap="true"
+		android:supportsRtl="true"
+		android:theme="@style/AppTheme">
+		<activity
+			android:name=".MainActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action	android:name="android.intent.action.MAIN"/>
+				<category	android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity>
+		<activity
+			android:name=".MenuActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".FarmhouseActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".KebunActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".CimahiActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".SituActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".GunungActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".CinuActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".MaribayaActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".TebingActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".BambuActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".KareumbiActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".MessageActivity"/>
+		<activity
+			android:name=".ProfilActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<activity
+			android:name=".TiketActivity"
+			android:configChanges="orientation|screenSize"
+			android:theme="@style/FullScreen"
+			android:screenOrientation="portrait"/>
+		<uses-library
+			android:name="org.apache.http.legacy"
+			android:required="false"/>
+	</application>
+</manifest>

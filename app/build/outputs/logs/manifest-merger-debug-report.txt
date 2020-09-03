@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f4fd4597c5dac794ebdb40b87a289d63\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\2cf8d06b3558b74a921272a126c6b692\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\11c09ad66725cca950682b295d78a97e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\38e93ef7db34fd4c28ab4e6c644a8fe0\AndroidManifest.xml:17:1-22:12
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0539f6d5f69ee9f8c3eaaea7c5439a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\6b57a4ec01422082b4e44ebd268d84ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\7ba68abdf9f8044b70f5e91391d27b47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\12d3d4bc35c43aa20cc433a4d97b6da4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\036841ba0d66964fadff04028a0ab322\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e2ac430b8be614106e727d20dc8aa885\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\140c0848eebe777fa7cc9db423b567a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\9b2f23d590e70fb186b7807d9d88058c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3e667aafec67521f081aeb9837d2c637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\d190e0a57f6192d1258fbb40ceb74cfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\be03da75a103304a17e27e709b1002a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0d67ed0fb352283477cb529afe8151e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\a7684b65b7fabc957edcf31cce8f6cd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b8be3b36ab1163d58e5b48577bfe2a37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e33b295d7549c7f852237ef2d2c9a81a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\973c5ec80507fc67fdb4b976bb6bdb53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f6b58e759fd0da1bebdd99b4cb41fa0c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f521b5dbe4b7f2c391320095dc223809\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\07bb5349bef3affa2a967428288966f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3cac6da74c20ebe672455f0c5adaa45c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e9840f89b4662a96b84db2c81c96ed60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\656c4401ac8cc2933ee18aa276f417fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\1d4880f6d6eb8b013c0604b4392d37a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\503a1b0c332b6d4b371fff8723c722ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\decba6cf547acf05933f69b2091495d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b716c7d1e4dd8a0e6e8be49492ee10a9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\348039548c0069bbf1dffe03106a2d51\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+	package
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:3:2-29
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:2:2-48
+	android:versionCode
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:1-97:12
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:4:2-63
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:4:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:5:2-75
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:5:19-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:6:2-76
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:6:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:7:2-79
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:7:20-76
+application
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:8:2-96:16
+MERGED from [com.android.support:design:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f4fd4597c5dac794ebdb40b87a289d63\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f4fd4597c5dac794ebdb40b87a289d63\AndroidManifest.xml:22:5-20
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:11:5-14:19
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f6b58e759fd0da1bebdd99b4cb41fa0c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f6b58e759fd0da1bebdd99b4cb41fa0c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:14:3-29
+	android:label
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:11:3-33
+		REJECTED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:13:9-41
+	android:largeHeap
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:13:3-27
+	android:icon
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:12:3-36
+	android:allowBackup
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:10:3-29
+		REJECTED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:15:3-34
+	tools:replace
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:9:3-37
+activity#com.wisatabandung.MainActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:16:3-25:14
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:20:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:18:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:19:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:17:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:22:5-56
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:23:15-62
+activity#com.wisatabandung.MenuActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:26:3-30:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:30:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:28:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:29:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:27:4-32
+activity#com.wisatabandung.FarmhouseActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:31:3-35:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:35:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:33:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:34:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:32:4-37
+activity#com.wisatabandung.KebunActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:36:3-40:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:40:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:38:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:39:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:37:4-33
+activity#com.wisatabandung.CimahiActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:41:3-45:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:45:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:43:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:44:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:42:4-34
+activity#com.wisatabandung.SituActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:46:3-50:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:50:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:48:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:49:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:47:4-32
+activity#com.wisatabandung.GunungActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:51:3-55:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:55:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:53:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:54:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:52:4-34
+activity#com.wisatabandung.CinuActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:56:3-60:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:60:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:58:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:59:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:57:4-32
+activity#com.wisatabandung.MaribayaActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:61:3-65:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:65:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:63:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:64:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:62:4-36
+activity#com.wisatabandung.TebingActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:66:3-70:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:70:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:68:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:69:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:67:4-34
+activity#com.wisatabandung.BambuActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:71:3-75:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:75:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:73:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:74:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:72:4-33
+activity#com.wisatabandung.KareumbiActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:76:3-80:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:80:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:78:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:79:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:77:4-36
+activity#com.wisatabandung.MessageActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:81:3-82:37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:82:4-35
+activity#com.wisatabandung.ProfilActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:83:3-87:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:87:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:85:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:86:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:84:4-34
+activity#com.wisatabandung.TiketActivity
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:88:3-92:42
+	android:screenOrientation
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:92:4-40
+	android:configChanges
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:90:4-50
+	android:theme
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:91:4-37
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:89:4-33
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:93:3-95:30
+	android:required
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:95:4-28
+	android:name
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml:94:4-41
+uses-sdk
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f4fd4597c5dac794ebdb40b87a289d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f4fd4597c5dac794ebdb40b87a289d63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\2cf8d06b3558b74a921272a126c6b692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\2cf8d06b3558b74a921272a126c6b692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\11c09ad66725cca950682b295d78a97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\11c09ad66725cca950682b295d78a97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\38e93ef7db34fd4c28ab4e6c644a8fe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\38e93ef7db34fd4c28ab4e6c644a8fe0\AndroidManifest.xml:20:5-44
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:7:5-9:41
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0bfee5c63014cc6448e5080052d6e3ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0539f6d5f69ee9f8c3eaaea7c5439a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\0539f6d5f69ee9f8c3eaaea7c5439a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\6b57a4ec01422082b4e44ebd268d84ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\6b57a4ec01422082b4e44ebd268d84ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\7ba68abdf9f8044b70f5e91391d27b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\7ba68abdf9f8044b70f5e91391d27b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\12d3d4bc35c43aa20cc433a4d97b6da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\12d3d4bc35c43aa20cc433a4d97b6da4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\036841ba0d66964fadff04028a0ab322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\036841ba0d66964fadff04028a0ab322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e2ac430b8be614106e727d20dc8aa885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e2ac430b8be614106e727d20dc8aa885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\140c0848eebe777fa7cc9db423b567a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\140c0848eebe777fa7cc9db423b567a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\9b2f23d590e70fb186b7807d9d88058c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\9b2f23d590e70fb186b7807d9d88058c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3e667aafec67521f081aeb9837d2c637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3e667aafec67521f081aeb9837d2c637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\d190e0a57f6192d1258fbb40ceb74cfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\d190e0a57f6192d1258fbb40ceb74cfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\be03da75a103304a17e27e709b1002a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\be03da75a103304a17e27e709b1002a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0d67ed0fb352283477cb529afe8151e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0d67ed0fb352283477cb529afe8151e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\a7684b65b7fabc957edcf31cce8f6cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\a7684b65b7fabc957edcf31cce8f6cd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b8be3b36ab1163d58e5b48577bfe2a37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b8be3b36ab1163d58e5b48577bfe2a37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e33b295d7549c7f852237ef2d2c9a81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e33b295d7549c7f852237ef2d2c9a81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\973c5ec80507fc67fdb4b976bb6bdb53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\973c5ec80507fc67fdb4b976bb6bdb53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\c0261225a201bc79a9cc68067ba4f18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f6b58e759fd0da1bebdd99b4cb41fa0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f6b58e759fd0da1bebdd99b4cb41fa0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f521b5dbe4b7f2c391320095dc223809\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\f521b5dbe4b7f2c391320095dc223809\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\07bb5349bef3affa2a967428288966f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\07bb5349bef3affa2a967428288966f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3cac6da74c20ebe672455f0c5adaa45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\3cac6da74c20ebe672455f0c5adaa45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e9840f89b4662a96b84db2c81c96ed60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\e9840f89b4662a96b84db2c81c96ed60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\656c4401ac8cc2933ee18aa276f417fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\656c4401ac8cc2933ee18aa276f417fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\1d4880f6d6eb8b013c0604b4392d37a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\1d4880f6d6eb8b013c0604b4392d37a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\503a1b0c332b6d4b371fff8723c722ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\503a1b0c332b6d4b371fff8723c722ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\decba6cf547acf05933f69b2091495d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\decba6cf547acf05933f69b2091495d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b716c7d1e4dd8a0e6e8be49492ee10a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\b716c7d1e4dd8a0e6e8be49492ee10a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\348039548c0069bbf1dffe03106a2d51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\agung-farm\.gradle\caches\transforms-2\files-2.1\348039548c0069bbf1dffe03106a2d51\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\agung-farm\Documents\wisatabandung\app\src\main\AndroidManifest.xml
