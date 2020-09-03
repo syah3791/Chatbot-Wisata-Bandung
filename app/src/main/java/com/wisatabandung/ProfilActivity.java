@@ -66,7 +66,6 @@ public class ProfilActivity extends Activity {
 	private TextView textview10;
 	private Button button2;
 	private Button button3;
-	private Button button4;
 	
 	private Intent p = new Intent();
 	private SharedPreferences s;
@@ -123,7 +122,6 @@ public class ProfilActivity extends Activity {
 		textview10 = (TextView) findViewById(R.id.textview10);
 		button2 = (Button) findViewById(R.id.button2);
 		button3 = (Button) findViewById(R.id.button3);
-		button4 = (Button) findViewById(R.id.button4);
 		s = getSharedPreferences("s", Activity.MODE_PRIVATE);
 		image.setType("image/*");
 		image.putExtra(Intent.EXTRA_ALLOW_MULTIPLE, true);
@@ -219,19 +217,6 @@ public class ProfilActivity extends Activity {
 			public void onClick(View _view) {
 				p.setClass(getApplicationContext(), MessageActivity.class);
 				startActivity(p);
-			}
-		});
-		button4.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View _view) {
-				final boolean TRACE_MODE = false;
-				String resourcesPath = Environment.getExternalStorageDirectory().toString() + "/hari";
-				System.out.println(resourcesPath);
-				MagicBooleans.trace_mode = TRACE_MODE;
-				Bot bot = new Bot("Hari", resourcesPath);
-
-				bot.writeAIMLFiles();
-				Log.i(resourcesPath, "MyClass.getView() — get item number ");
 			}
 		});
 	}
